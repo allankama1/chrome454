@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Allan app52</string>
+    <string name="title_activity_layout">LayoutActivity</string>
+    <string name="title_activity_layout1">Layout1Activity</string>
+    <string name="title_activity_layout2">LayoutActivity2</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_allano">Allano</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+    <string name="title_activity_destination_kactivity">DestinationKActivity</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+    <string name="title_activity_woof">WoofActivity</string>
+    <string name="title_activity_lottie">LottieActivity</string>
+    <string name="title_activity_splashscreen">Splashscreen</string>
+    <string name="title_activity_act1">Act1</string>
+    <string name="title_activity_act2">Act2</string>
+    <string name="title_activity_act3">Act3</string>
+    <string name="title_activity_act4">Act4</string>
 </resources>
