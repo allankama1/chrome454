@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135622046170",
+    "project_id": "allan-app52",
+    "storage_bucket": "allan-app52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135622046170:android:9a891dfd8e5437c701d0e3",
+        "android_client_info": {
+          "package_name": "com.example.allanapp52"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWNTQDyklc_1qzFdld5UnC5TEXaiGgHEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
